@@ -1,0 +1,16 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Local run outputs -- never commit data or trained models
+runs/
+data/
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.h5
